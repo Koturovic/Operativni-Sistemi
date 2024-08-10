@@ -1,3 +1,5 @@
+package karte;
+
 import karte.Igrac;
 import karte.Spil;
 import karte.Tura;
