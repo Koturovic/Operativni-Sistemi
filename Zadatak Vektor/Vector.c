@@ -26,7 +26,7 @@ int main(){
     int *res = malloc(n*sizeof(int));
 
 
-    //ucitavamo jedan pa drugi
+    //ucitavamo jedan pa drugi;
     printf("Unesite clanove prvog vektora:\n");
     for(int i = 0; i<n;i++){
         scanf("%d", &v1[i]);

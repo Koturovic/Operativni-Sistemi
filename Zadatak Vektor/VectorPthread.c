@@ -36,7 +36,7 @@ typedef struct
 
 }Podaci;
 
-// a ovo je funckija koju ce da koriste m niti
+// a ovo je funckija koju ce da koriste m niti;
 void* sumOfVectors(void* arg){
 
     // da bi sabrali dva vektora moramo da imamo inf koje cemo da 
