@@ -1,0 +1,21 @@
+Ukupno vreme izvrsavanja: 0.000044
+Matrica:
+1 2 3 
+4 5 6 
+7 8 9 
+Zbir: 45
+
+Ukupno vreme izvrsavanja: 0.000047
+Matrica:
+-1 2 -3 
+4 -5 6 
+-7 8 9 
+Zbir: 29
+
+Ukupno vreme izvrsavanja: 0.000066
+Matrica:
+1 2 3 
+4 5 6 
+7 8 9 
+Zbir: 45
+
